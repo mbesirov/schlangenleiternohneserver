@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="21437649148671" >
+
+    <task
+        name="javac"
+        duration="12290" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3142" />
+    <task
+        name="verifier"
+        duration="510" />
+
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e42e16e4a8cf78de56025f7a6bcc7f96175d4aaa/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36c70bab1b1152cfba521354de0da8158bf0237e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/libgdx-utils-box2d-0.13.3_23a8680f9f3cf3a2065230196f937fec07c1db13/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_385d612addc610a3f67644764acb5e4646d6b625/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/libgdx-utils-0.13.3_47758ccbcdf5bebf9f0297a8d0ca5939f9c16340/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-freetype-1.6.2_d4a07cce303f547e7f8f51ea8f5dabb204cdf92a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_dadc4d43b38ff576bfa5ba251f92281118800c89/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_2d1c633a8bfece7c8d0852dcdbd71ce385b0eb69/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.2_c10328d42e444ffad986e25b56d64b69bf44eb3d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/vis-ui-1.0.1_92f043536f7edb6cd13f969f017d6c3e6143b5fb/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/box2dlights-1.4_89e9f61ce82aded848b1978ad46156c01fdd4ed1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_60bee5eb0ba4fa83a29665f48f0c9770fcf43f15/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_bfd49b2561399bb26910ae8b45a821b7d9cda34b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/artemis-odb-1.3.1_f8b15cc8d9628a4007a549304ddc8554ba396d9a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_0f025ccac0f1174726046d841a0d7eaac14b158a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/overlap2d-runtime-libgdx-0.1.0_a6a8b08841980154dfa3a408f29f10161ddaf7fc/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/vis-runtime-0.3.1_07fde3f5abbb0356c3f4de061cdc72ffe1964426/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/Moers/Desktop/LeiternUndSchlangenNeu-mb2/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.2_158fb639054e2ce0d7bea31fa8146c7de428384e/classes.dex"
+        type="DEX" />
+
+</instant-run>
